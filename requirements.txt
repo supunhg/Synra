@@ -3,4 +3,3 @@ pymongo
 sentence-transformers
 flask-cors
 requests
-json
