@@ -1,5 +1,6 @@
 flask
 pymongo
-sentence-transformers
 flask-cors
 requests
+sentence-transformers
+torch==2.7.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
