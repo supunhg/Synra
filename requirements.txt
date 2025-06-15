@@ -6,3 +6,4 @@ pymongo
 flask-cors
 requests
 gunicorn
+beautifulsoup4
