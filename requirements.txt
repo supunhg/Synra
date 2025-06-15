@@ -1,6 +1,7 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.7.1
+sentence-transformers
 flask
 pymongo
 flask-cors
 requests
-sentence-transformers
-torch==2.7.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
