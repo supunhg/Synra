@@ -1,0 +1,10 @@
+*.pt
+*.onnx
+*.pdf
+*.md
+*.log
+__pycache__/
+tests/
+notebooks/
+data/
+models/
