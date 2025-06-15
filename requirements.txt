@@ -5,3 +5,4 @@ flask
 pymongo
 flask-cors
 requests
+gunicorn
